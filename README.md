@@ -1,4 +1,5 @@
-# speaker-starter-kit
+# Technical Speaker Starter Kit
+
 Resources for Technical Speakers
 
 # How do I find out about CFPs? (calls for presenters)
