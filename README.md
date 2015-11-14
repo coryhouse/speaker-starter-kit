@@ -4,10 +4,11 @@ Resources for Technical Speakers
 # How do I find out about CFPs? (calls for presenters)
 1. [Lanyrd](www.lanyrd.com)
 2. [Speaknet Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/speaknet)
-3. Follow [http://www.twitter.com/theweeklycfp](@TheWeeklyCFP) conferences on Twitter
-4. Subscribe to the mailing list of each conference you're interested in
-5. When you watch a good conference video on YouTube, Vimeo, etc, note which conference it was.
+3. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), and any conferences you're interested in on Twitter.
+4. Subscribe to the mailing list of each conference you're interested in.
+5. When you watch a good conference video on YouTube, Vimeo, etc, note which conference it was and subscribe to their mailing list and follow them on Twitter.
 6. Join local [meetups](http://www.meetup.com)
+7. When you attend any conferences or meetups, ask fellow speakers what conferences they attend.
 
 # How do I stay organized?
 1. Use [Evernote](https://evernote.com) or Word to keep a list of all abstracts.
