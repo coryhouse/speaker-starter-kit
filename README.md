@@ -9,7 +9,7 @@ Resources for Technical Speakers
 4. Subscribe to the mailing list of each conference you're interested in.
 5. When you watch a good conference video on YouTube, Vimeo, etc, note which conference it was and subscribe to their mailing list and follow them on Twitter.
 6. Join local [meetups](http://www.meetup.com)
-7. When you attend any conferences or meetups, ask fellow speakers what conferences they attend.
+7. When you attend conferences or meetups, ask people what conferences they attend.
 
 # How do I stay organized?
 1. Use [Evernote](https://evernote.com) or Word to keep a list of all abstracts.
