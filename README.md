@@ -7,7 +7,7 @@ Resources for Technical Speakers
 2. [Speaknet Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/speaknet)
 3. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), and any conferences you're interested in on Twitter.
 4. Sign up for [Technically Speaking](http://www.techspeak.email) list.
-5. Sign up for [Community Megaphone](http://communitymegaphone.com/)
+5. Sign up for [Community Megaphone](http://communitymegaphone.com/) and follow [@CommMegaphone](https://twitter.com/CommMegaphone)
 6. Subscribe to the mailing list of each conference you're interested in.
 7. When you watch a good conference video on YouTube, Vimeo, etc, note which conference it was and subscribe to their mailing list and follow them on Twitter.
 8. Join local [meetups](http://www.meetup.com)
