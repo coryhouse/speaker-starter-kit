@@ -7,10 +7,10 @@ Resources for Technical Speakers
 2. [Speaknet Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/speaknet)
 3. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), and any conferences you're interested in on Twitter.
 4. Sign up for [Technically Speaking](http://www.techspeak.email) list.
-4. Subscribe to the mailing list of each conference you're interested in.
-5. When you watch a good conference video on YouTube, Vimeo, etc, note which conference it was and subscribe to their mailing list and follow them on Twitter.
-6. Join local [meetups](http://www.meetup.com)
-7. When you attend conferences or meetups, ask people what conferences they attend.
+5. Subscribe to the mailing list of each conference you're interested in.
+6. When you watch a good conference video on YouTube, Vimeo, etc, note which conference it was and subscribe to their mailing list and follow them on Twitter.
+7. Join local [meetups](http://www.meetup.com)
+8. When you attend conferences or meetups, ask people what conferences they attend.
 
 # How do I stay organized?
 1. Use [Evernote](https://evernote.com) or Word to keep a list of all abstracts.
