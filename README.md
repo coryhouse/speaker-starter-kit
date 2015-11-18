@@ -20,7 +20,7 @@ Resources for Technical Speakers
 4. Each time you speak, log your talk on Lanyrd, and on your personal blog. Tweet a link to more resources. Consider printing a handout that summarizes the key points. The principle at play here is Jeff Atwood's: [Do it in public](http://blog.codinghorror.com/how-to-stop-sucking-and-be-awesome-instead/).
 
 ## What books should I read?
-Note that some of the books below are available in audiobook format. If you don't have time to read a book, [multi-thread your life](http://www.pluralsight.com/courses/career-reboot-for-developer-mind) by listing while driving and excercising.
+Note that some of the books below are available in audiobook format. If you don't have time to read a book, [multi-thread your life](http://www.pluralsight.com/courses/career-reboot-for-developer-mind) by listening while driving and excercising.
 
 1. [Resonate](http://www.amazon.com/gp/product/0470632011/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470632011&linkCode=as2&tag=outlier-20&linkId=UCSGCKN3MAATURNT) by Nancy Duarte
 2. [Presentation Zen](http://www.amazon.com/gp/product/0321811984/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321811984&linkCode=as2&tag=outlier-20&linkId=6QQ6YOJTC3LIDKQW) by Garr Reynolds
