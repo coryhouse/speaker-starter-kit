@@ -35,4 +35,4 @@ Note that some of the books below are available in audiobook format. If you don'
 
 #Related Blogs
 1. [weareallaweso.me](http://weareallaweso.me)  
-2. [Speaker Style Bingo: 10 Presentation Anti-Patterns](Speaker Style Bingo: 10 Presentation Anti-Patterns by Troy Hunt)  
+2. [Speaker Style Bingo: 10 Presentation Anti-Patterns by Troy Hunt](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html)  
