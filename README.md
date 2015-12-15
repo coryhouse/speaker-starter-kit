@@ -33,8 +33,9 @@ Note that some of the books below are available in audiobook format. If you don'
 7. [Do You Talk Funny? 7 Comedy Habits to Become a Better (and Funnier) Public Speaker](http://www.amazon.com/gp/product/1505819296/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1505819296&linkCode=as2&tag=outlier-20&linkId=VJZDB4CA2KVCDXTN) by David Nihill
 8. [Speak to Win](http://www.amazon.com/gp/product/0814401570/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814401570&linkCode=as2&tag=bitnatcom-20&linkId=7LZLFE4I5SQWJNYK) by Brian Tracy
 
-#Related Blogs
+#Related Blog Posts
 1. [weareallaweso.me](http://weareallaweso.me)  
 2. [Speaker Style Bingo: 10 Presentation Anti-Patterns by Troy Hunt](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html)  
+3. [How To Become A Tech Conference Speaker]http://www.exceptionnotfound.net/how-to-become-a-tech-conference-speaker
 
 [Another great list](https://github.com/matteofigus/awesome-speaking)
