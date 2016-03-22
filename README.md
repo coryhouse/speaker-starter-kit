@@ -15,6 +15,9 @@ Resources for Technical Speakers
 10. When you attend conferences or meetups, ask people what conferences they attend.  
 11. Reach out to thought leaders and ask them which conferences they recommend.
 
+##How do I get accepted?
+I compiled my thoughts here: [Conference Speaker? Here’s 7 Tips for Getting Accepted](https://medium.com/@housecor/conference-speaker-here-s-7-tips-for-getting-accepted-6151af513148#.7tc60xofe)
+
 ## How do I stay organized?
 1. Use [Evernote](https://evernote.com) or Word to keep a list of all your abstracts.
 2. Create a spreadsheet of all conferences you're interested in. Order them by time of year. Note what makes each unique (travel covered, venue, distance, etc). This will help you pick between the many options.
