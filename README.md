@@ -32,9 +32,10 @@ Note that some of the books below are available in audiobook format. If you don'
 3. [Slideology](http://www.amazon.com/gp/product/0596522347/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0596522347&linkCode=as2&tag=outlier-20&linkId=D24EHPGQZYB2A6VA) by Nancy Duarte
 4. [Talk Like Ted](http://www.amazon.com/gp/product/1250061539/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1250061539&linkCode=as2&tag=outlier-20&linkId=NPFCWJDUHGI5EBJD) by Carmine Gallo
 5. [Presentation Zen Design](http://www.amazon.com/gp/product/0321934156/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321934156&linkCode=as2&tag=outlier-20&linkId=FOBJS2YFJY6IOLMU) by Garr Reynolds
-6. [Start with Why](http://www.amazon.com/gp/product/1591846447/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591846447&linkCode=as2&tag=outlier-20&linkId=GLWQF6H2KUBGJR36) by Simon Sinek
-7. [Do You Talk Funny? 7 Comedy Habits to Become a Better (and Funnier) Public Speaker](http://www.amazon.com/gp/product/1505819296/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1505819296&linkCode=as2&tag=outlier-20&linkId=VJZDB4CA2KVCDXTN) by David Nihill
-8. [Speak to Win](http://www.amazon.com/gp/product/0814401570/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814401570&linkCode=as2&tag=bitnatcom-20&linkId=7LZLFE4I5SQWJNYK) by Brian Tracy
+6. [Show and Tell](https://www.amazon.com/gp/product/1591848024/ref=as_li_tl?ie=UTF8&tag=outlier-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=1591848024&linkId=f1b3b5e2868017e02ae8b347228094e5) by Dan Roam
+7. [Start with Why](http://www.amazon.com/gp/product/1591846447/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591846447&linkCode=as2&tag=outlier-20&linkId=GLWQF6H2KUBGJR36) by Simon Sinek
+8. [Do You Talk Funny? 7 Comedy Habits to Become a Better (and Funnier) Public Speaker](http://www.amazon.com/gp/product/1505819296/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1505819296&linkCode=as2&tag=outlier-20&linkId=VJZDB4CA2KVCDXTN) by David Nihill
+9. [Speak to Win](http://www.amazon.com/gp/product/0814401570/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814401570&linkCode=as2&tag=bitnatcom-20&linkId=7LZLFE4I5SQWJNYK) by Brian Tracy
 
 #Related Blog Posts
 1. [weareallaweso.me](http://weareallaweso.me)  
