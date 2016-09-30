@@ -4,7 +4,7 @@ Resources for Technical Speakers
 
 ## How do I find out about CFPs? (calls for presenters)
 1. [Lanyrd](http://www.lanyrd.com)
-2. [Speaknet Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/speaknet)
+2. [Speaknet Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/speaknet) and [Speaknet Slack](https://speaknet.herokuapp.com/)
 3. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), and any conferences you're interested in on Twitter.
 4. Follow [@callbackwomen](http://twitter.com/callbackwomen) on Twitter. (they tweet about speaking opportunities, so relevant for everyone).
 5. Sign up for [Technically Speaking](http://www.techspeak.email) list.
