@@ -16,7 +16,13 @@ Resources for Technical Speakers
 11. Reach out to thought leaders and ask them which conferences they recommend.
 
 ##How do I get accepted?
-I compiled my thoughts here: [Conference Speaker? Here’s 7 Tips for Getting Accepted](https://medium.com/@housecor/conference-speaker-here-s-7-tips-for-getting-accepted-6151af513148#.7tc60xofe)
+1. My thoughts: [Conference Speaker? Here’s 7 Tips for Getting Accepted](https://medium.com/@housecor/conference-speaker-here-s-7-tips-for-getting-accepted-6151af513148#.7tc60xofe)
+2. [Tips to increase your acceptance rate:](https://www.harihareswara.net/sumana/2016/03/29/0)
+3. [What I'm Looking For in a Talk Proposal](http://www.pewpewlaser.com/blogs/655)
+4. [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
+
+##Got accepted? Great! Time to write the talk:
+1. [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 
 ## How do I stay organized?
 1. Use [Evernote](https://evernote.com) or Word to keep a list of all your abstracts.
