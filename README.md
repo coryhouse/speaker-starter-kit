@@ -15,6 +15,7 @@ Resources for Technical Speakers
 10. When you attend conferences or meetups, ask people what conferences they attend.  
 11. Reach out to thought leaders and ask them which conferences they recommend.
 12. [A list of Hacker Worthy Conferences](https://github.com/watson/hacker-conferences)
+13. Consider trying [SpeakerMatch](https://www.speakermatch.com) - You can list yourself as a speaker for hire.
 
 ## How do I get accepted?
 1. My thoughts: [Conference Speaker? Here’s 7 Tips for Getting Accepted](https://medium.com/@housecor/conference-speaker-here-s-7-tips-for-getting-accepted-6151af513148#.7tc60xofe)
