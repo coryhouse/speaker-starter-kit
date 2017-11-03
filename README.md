@@ -8,7 +8,7 @@ Resources for Technical Speakers
 2. [Lanyrd](http://www.lanyrd.com)
 3. [Speaknet Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/speaknet) and [Speaknet Slack](https://speaknet.herokuapp.com/)
 4. [Conference Radar](https://conferenceradar.com)
-5. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), [@mozTechCFPs](https://twitter.com/mozTechCFPs), [@callbackwomen](http://twitter.com/callbackwomen), [https://twitter.com/SpeakerAlerts](SpeakerAlerts), and any conferences you're interested in on Twitter.
+5. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), [@mozTechCFPs](https://twitter.com/mozTechCFPs), [@callbackwomen](http://twitter.com/callbackwomen), [SpeakerAlerts](https://twitter.com/SpeakerAlerts), and any conferences you're interested in on Twitter.
 6. Sign up for [Technically Speaking](http://www.techspeak.email) list.
 7. Sign up for [Community Megaphone](http://communitymegaphone.com/) and follow [@CommMegaphone](https://twitter.com/CommMegaphone).
 8. Subscribe to the mailing list of each conference you're interested in.
