@@ -6,16 +6,17 @@ Resources for Technical Speakers
 1. Search open CFPs on [Papercall](https://www.papercall.io/cfps).
 2. [Lanyrd](http://www.lanyrd.com)
 3. [Speaknet Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/speaknet) and [Speaknet Slack](https://speaknet.herokuapp.com/)
-4. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), [@mozTechCFPs](https://twitter.com/mozTechCFPs), [@callbackwomen](http://twitter.com/callbackwomen), and any conferences you're interested in on Twitter.
-5. Sign up for [Technically Speaking](http://www.techspeak.email) list.
-6. Sign up for [Community Megaphone](http://communitymegaphone.com/) and follow [@CommMegaphone](https://twitter.com/CommMegaphone).
-7. Subscribe to the mailing list of each conference you're interested in.
-8. When you watch a good conference video on YouTube, Vimeo, etc, note which conference it was and subscribe to their mailing list and follow them on Twitter.
-9. Join local [meetups](http://www.meetup.com).   
-10. When you attend conferences or meetups, ask people what conferences they attend.  
-11. Reach out to thought leaders and ask them which conferences they recommend.
-12. [A list of Hacker Worthy Conferences](https://github.com/watson/hacker-conferences)
-13. Consider trying [SpeakerMatch](https://www.speakermatch.com) - You can list yourself as a speaker for hire.
+4. [ConferenceRadar](https://conferenceradar.com)
+5. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), [@mozTechCFPs](https://twitter.com/mozTechCFPs), [@callbackwomen](http://twitter.com/callbackwomen), and any conferences you're interested in on Twitter.
+6. Sign up for [Technically Speaking](http://www.techspeak.email) list.
+7. Sign up for [Community Megaphone](http://communitymegaphone.com/) and follow [@CommMegaphone](https://twitter.com/CommMegaphone).
+8. Subscribe to the mailing list of each conference you're interested in.
+9. When you watch a good conference video on YouTube, Vimeo, etc, note which conference it was and subscribe to their mailing list and follow them on Twitter.
+10. Join local [meetups](http://www.meetup.com).   
+11. When you attend conferences or meetups, ask people what conferences they attend.  
+12. Reach out to thought leaders and ask them which conferences they recommend.
+13. [A list of Hacker Worthy Conferences](https://github.com/watson/hacker-conferences)
+14. Consider trying [SpeakerMatch](https://www.speakermatch.com) - You can list yourself as a speaker for hire.
 
 
 ## How do I get accepted?
