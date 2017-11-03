@@ -4,10 +4,11 @@ Resources for Technical Speakers
 
 ## How do I find out about CFPs? (calls for presenters)
 1. Search open CFPs on [Papercall](https://www.papercall.io/cfps).
+2. [HUGE list of software conferences](https://docs.google.com/spreadsheets/d/1QQu-el_aPBWFk6rDNbbrvBx819w-dPhHGB9tEVeiP5s/edit#gid=1428437774) (Thanks to [Heather Wilde](http://www.twitter.com/heathriel)! 👍)
 2. [Lanyrd](http://www.lanyrd.com)
 3. [Speaknet Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/speaknet) and [Speaknet Slack](https://speaknet.herokuapp.com/)
 4. [Conference Radar](https://conferenceradar.com)
-5. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), [@mozTechCFPs](https://twitter.com/mozTechCFPs), [@callbackwomen](http://twitter.com/callbackwomen), and any conferences you're interested in on Twitter.
+5. Follow [@TheWeeklyCFP](http://www.twitter.com/theweeklycfp), [@mozTechCFPs](https://twitter.com/mozTechCFPs), [@callbackwomen](http://twitter.com/callbackwomen), [https://twitter.com/SpeakerAlerts](SpeakerAlerts), and any conferences you're interested in on Twitter.
 6. Sign up for [Technically Speaking](http://www.techspeak.email) list.
 7. Sign up for [Community Megaphone](http://communitymegaphone.com/) and follow [@CommMegaphone](https://twitter.com/CommMegaphone).
 8. Subscribe to the mailing list of each conference you're interested in.
