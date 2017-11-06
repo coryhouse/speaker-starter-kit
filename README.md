@@ -48,6 +48,7 @@ Note that some of the books below are available in audiobook format. If you don'
 7. [Start with Why](http://www.amazon.com/gp/product/1591846447/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1591846447&linkCode=as2&tag=outlier-20&linkId=GLWQF6H2KUBGJR36) by Simon Sinek
 8. [Do You Talk Funny? 7 Comedy Habits to Become a Better (and Funnier) Public Speaker](http://www.amazon.com/gp/product/1505819296/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1505819296&linkCode=as2&tag=outlier-20&linkId=VJZDB4CA2KVCDXTN) by David Nihill
 9. [Speak to Win](http://www.amazon.com/gp/product/0814401570/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814401570&linkCode=as2&tag=bitnatcom-20&linkId=7LZLFE4I5SQWJNYK) by Brian Tracy
+10. [The Storyteller's Spellbook: How to make your ideas more compelling and your career more magical](https://www.amazon.co.uk/dp/B073Q5X4BX/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by James Whittaker
 
 # Related Resources
 1. [speaking.io](http://speaking.io)
@@ -55,3 +56,4 @@ Note that some of the books below are available in audiobook format. If you don'
 3. [Speaker Style Bingo: 10 Presentation Anti-Patterns by Troy Hunt](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html)  
 4. [How To Become A Tech Conference Speaker](http://www.exceptionnotfound.net/how-to-become-a-tech-conference-speaker)
 5. [Awesome-speaking list](https://github.com/matteofigus/awesome-speaking)
+6. [Getting started with speaking - a guide for technical people by Christos Matskas](https://cmatskas.com/getting-started-with-public-speaking-a-guide-for-technical-people/)
