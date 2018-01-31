@@ -25,6 +25,7 @@ Resources for Technical Speakers
 2. [Tips to increase your acceptance rate](https://www.harihareswara.net/sumana/2016/03/29/0)
 3. [What I'm Looking For in a Talk Proposal](http://www.pewpewlaser.com/blogs/655)
 4. [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
+5. Get constructive feedback on your abstract before submitting to a CFP: [Help Me Abstract](http://helpmeabstract.com/)
 
 ## Got accepted? Great! Time to write the talk:
 1. [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
