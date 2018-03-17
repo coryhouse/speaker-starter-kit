@@ -21,11 +21,13 @@ Resources for Technical Speakers
 
 
 ## How do I get accepted?
-1. My thoughts: [Conference Speaker? Here’s 7 Tips for Getting Accepted](https://medium.com/@housecor/conference-speaker-here-s-7-tips-for-getting-accepted-6151af513148#.7tc60xofe)
-2. [Tips to increase your acceptance rate](https://www.harihareswara.net/sumana/2016/03/29/0)
-3. [What I'm Looking For in a Talk Proposal](http://www.pewpewlaser.com/blogs/655)
-4. [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
-5. Get constructive feedback on your abstract before submitting to a CFP: [Help Me Abstract](http://helpmeabstract.com/)
+
+1. [https://twitter.com/kentbeck/status/974359988352110592?s=11](How to write an abstract from Kent Beck)
+2. [Conference Speaker? Here’s 7 Tips for Getting Accepted](https://medium.com/@housecor/conference-speaker-here-s-7-tips-for-getting-accepted-6151af513148#.7tc60xofe)
+3. [Tips to increase your acceptance rate](https://www.harihareswara.net/sumana/2016/03/29/0)
+4. [What I'm Looking For in a Talk Proposal](http://www.pewpewlaser.com/blogs/655)
+5. [What Your Conference Proposal Is Missing](http://www.sarahmei.com/blog/2014/04/07/what-your-conference-proposal-is-missing/)
+6. Get constructive feedback on your abstract before submitting to a CFP: [Help Me Abstract](http://helpmeabstract.com/)
 
 ## Got accepted? Great! Time to write the talk:
 1. [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
