@@ -22,7 +22,7 @@ Resources for Technical Speakers
 
 ## How do I get accepted?
 
-1. [https://twitter.com/kentbeck/status/974359988352110592?s=11](How to write an abstract from Kent Beck)
+1. [How to write an abstract from Kent Beck](https://twitter.com/kentbeck/status/974359988352110592?s=11)
 2. [Conference Speaker? Here’s 7 Tips for Getting Accepted](https://medium.com/@housecor/conference-speaker-here-s-7-tips-for-getting-accepted-6151af513148#.7tc60xofe)
 3. [Tips to increase your acceptance rate](https://www.harihareswara.net/sumana/2016/03/29/0)
 4. [What I'm Looking For in a Talk Proposal](http://www.pewpewlaser.com/blogs/655)
