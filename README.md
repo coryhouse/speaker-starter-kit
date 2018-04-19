@@ -56,8 +56,9 @@ Note that some of the books below are available in audiobook format. If you don'
 
 # Related Resources
 1. [speaking.io](http://speaking.io)
-2. [weareallaweso.me](http://weareallaweso.me)  
-3. [Speaker Style Bingo: 10 Presentation Anti-Patterns by Troy Hunt](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html)  
-4. [How To Become A Tech Conference Speaker](http://www.exceptionnotfound.net/how-to-become-a-tech-conference-speaker)
-5. [Awesome-speaking list](https://github.com/matteofigus/awesome-speaking)
-6. [Getting started with speaking - a guide for technical people by Christos Matskas](https://cmatskas.com/getting-started-with-public-speaking-a-guide-for-technical-people/)
+2. [weareallaweso.me](http://weareallaweso.me)
+3. [Speaking Mentors](http://www.speakingmentors.com/)
+4. [Speaker Style Bingo: 10 Presentation Anti-Patterns by Troy Hunt](http://www.troyhunt.com/2015/06/speaker-style-bingo-10-presentation.html)  
+5. [How To Become A Tech Conference Speaker](http://www.exceptionnotfound.net/how-to-become-a-tech-conference-speaker)
+6. [Awesome-speaking list](https://github.com/matteofigus/awesome-speaking)
+7. [Getting started with speaking - a guide for technical people by Christos Matskas](https://cmatskas.com/getting-started-with-public-speaking-a-guide-for-technical-people/)
