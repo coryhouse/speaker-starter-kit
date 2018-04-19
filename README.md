@@ -32,6 +32,7 @@ Resources for Technical Speakers
 ## Got accepted? Great! Time to write the talk:
 1. [How to prepare and write a tech conference talk](http://wunder.schoenaberselten.com/2016/02/16/how-to-prepare-and-write-a-tech-conference-talk/)
 2. [The Talk on Talks by Zach Holman](https://zachholman.com/talk/the-talk-on-talks/)
+3. [5 Essential Ingredients for an Awesome Tech Talk](https://medium.com/@reverentgeek/5-essential-ingredients-for-an-awesome-tech-talk-2e5778b2cb5a)
 
 ## How do I stay organized?
 1. Use [Evernote](https://evernote.com) or Word to keep a list of all your abstracts.
