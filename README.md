@@ -40,7 +40,7 @@ Resources for Technical Speakers
 3. Create checklists to make sure you take care of things. Ever since reading [The Checklist Manifesto](http://www.amazon.com/gp/product/0312430000/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0312430000&linkCode=as2&tag=outlier-20&linkId=A5G36554ZQZYVVFT) I utilize multiple checklists: [90 days before speaking](https://www.evernote.com/l/AAiDTMSauUNJaa9Bm7sFzV1Gx8-kPYgSyvo), [1 day before speaking](https://www.evernote.com/l/AAiEvTX0KaFO1J9cwL_CybldCxRNxtuKmp8), [0 days before speaking](https://www.evernote.com/l/AAi862TYcX9AJ6qqbNc9Bx_8vkSuhS3cggg)
 4. Each time you speak, log your talk on Lanyrd, and on your personal blog. Tweet a link to more resources. Consider printing a handout that summarizes the key points. The principle at play here is Jeff Atwood's: [Do it in public](http://blog.codinghorror.com/how-to-stop-sucking-and-be-awesome-instead/).
 
-## What books should I read?
+## What should I read?
 Note that some of the books below are available in audiobook format. If you don't have time to read a book, [multi-thread your life](http://www.pluralsight.com/courses/career-reboot-for-developer-mind) by listening while driving and excercising.
 
 1. [Resonate](http://www.amazon.com/gp/product/0470632011/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470632011&linkCode=as2&tag=outlier-20&linkId=UCSGCKN3MAATURNT) by Nancy Duarte
@@ -53,6 +53,7 @@ Note that some of the books below are available in audiobook format. If you don'
 8. [Do You Talk Funny? 7 Comedy Habits to Become a Better (and Funnier) Public Speaker](http://www.amazon.com/gp/product/1505819296/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=1505819296&linkCode=as2&tag=outlier-20&linkId=VJZDB4CA2KVCDXTN) by David Nihill
 9. [Speak to Win](http://www.amazon.com/gp/product/0814401570/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814401570&linkCode=as2&tag=bitnatcom-20&linkId=7LZLFE4I5SQWJNYK) by Brian Tracy
 10. [The Storyteller's Spellbook: How to make your ideas more compelling and your career more magical](https://www.amazon.co.uk/dp/B073Q5X4BX/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by James Whittaker
+11. [Death by PowerPoint: the slide that killed seven people](https://mcdreeamiemusings.com/new-blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx) - Our job as presenters is to clearly convey key information. A sobering reminder of our responsibility.
 
 # Related Resources
 1. [speaking.io](http://speaking.io)
