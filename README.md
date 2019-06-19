@@ -37,11 +37,12 @@ Resources for Speakers
 1. Use [Evernote](https://evernote.com) or Word to keep a list of all your abstracts.
 2. Create a spreadsheet of all conferences you're interested in. Order them by time of year. Note what makes each unique (travel covered, venue, distance, etc). This will help you pick between the many options.
 3. Create checklists to make sure you take care of things. Ever since reading [The Checklist Manifesto](http://www.amazon.com/gp/product/0312430000/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0312430000&linkCode=as2&tag=outlier-20&linkId=A5G36554ZQZYVVFT) I utilize multiple checklists: [90 days before speaking](https://www.evernote.com/l/AAiDTMSauUNJaa9Bm7sFzV1Gx8-kPYgSyvo), [1 day before speaking](https://www.evernote.com/l/AAiEvTX0KaFO1J9cwL_CybldCxRNxtuKmp8)
-4. Don’t memorize your talk. [Memorize your stories](https://seths.blog/2019/06/awkward-memorization/)
+4. [Don’t memorize your talk. Memorize your stories](https://twitter.com/housecor/status/1141299695626702848)
 5. Each time you speak, log your talk on your personal blog. Tweet a link to more resources. Consider printing a handout that summarizes the key points. The principle at play here is Jeff Atwood's: [Do it in public](http://blog.codinghorror.com/how-to-stop-sucking-and-be-awesome-instead/).
 
 ## Any speaking tips?
 
+1. https://twitter.com/housecor/status/1141299695626702848
 1. [Here's a list I like to review](https://www.evernote.com/l/AAi862TYcX9AJ6qqbNc9Bx_8vkSuhS3cggg) shortly before going on stage.
 1. Most important: Remember, [you set the excitement baseline.](https://twitter.com/housecor/status/1140660471307091969) 
 
