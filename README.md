@@ -42,7 +42,6 @@ Resources for Speakers
 
 ## Any speaking tips?
 
-1. https://twitter.com/housecor/status/1141299695626702848
 1. [Here's a list I like to review](https://www.evernote.com/l/AAi862TYcX9AJ6qqbNc9Bx_8vkSuhS3cggg) shortly before going on stage.
 1. Most important: Remember, [you set the excitement baseline.](https://twitter.com/housecor/status/1140660471307091969) 
 
