@@ -1,6 +1,6 @@
-# Technical Speaker Starter Kit
+# Speaker Starter Kit
 
-Resources for Technical Speakers
+Resources for Speakers
 
 ## How do I find out about CFPs? (calls for presenters)
 1. Search open CFPs on [Papercall](https://www.papercall.io/cfps).
