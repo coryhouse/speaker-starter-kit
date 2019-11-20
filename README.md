@@ -18,6 +18,7 @@ Resources for Speakers
 13. [A list of Hacker Worthy Conferences](https://github.com/watson/hacker-conferences)
 14. Consider trying [SpeakerMatch](https://www.speakermatch.com) - You can list yourself as a speaker for hire.
 15. [Tulu.la](https://tulu.la) - Curated list of tech events and open CFPs. Friendly community and speaker support champions. Community-driven.
+16. [confs.tech](http://confs.tech/) - List of conferences around the world.
 
 
 ## How do I get accepted?
