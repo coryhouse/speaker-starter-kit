@@ -63,6 +63,7 @@ Note that some of the books below are available in audiobook format. If you don'
 9. [Speak to Win](http://www.amazon.com/gp/product/0814401570/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0814401570&linkCode=as2&tag=bitnatcom-20&linkId=7LZLFE4I5SQWJNYK) by Brian Tracy
 10. [The Storyteller's Spellbook: How to make your ideas more compelling and your career more magical](https://www.amazon.co.uk/dp/B073Q5X4BX/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1) by James Whittaker
 11. [Death by PowerPoint: the slide that killed seven people](https://mcdreeamiemusings.com/new-blog/2019/4/13/gsux1h6bnt8lqjd7w2t2mtvfg81uhx) - Our job as presenters is to clearly convey key information. A sobering reminder of our responsibility.
+12. [Speak Like Churchill, Stand Like Lincoln](https://www.amazon.com/Speak-Like-Churchill-Stand-Lincoln/dp/0761563512) - Learn the techniques of the worlds best speakers.
 
 # Related Resources
 1. [speaking.io](http://speaking.io)
