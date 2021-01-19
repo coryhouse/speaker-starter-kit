@@ -50,7 +50,7 @@ Resources for Speakers
 1. [Here's a list I like to review](https://www.evernote.com/l/AAi862TYcX9AJ6qqbNc9Bx_8vkSuhS3cggg) shortly before going on stage.
 
 ## What should I read?
-Note that some of the books below are available in audiobook format. If you don't have time to read a book, [multi-thread your life](http://www.pluralsight.com/courses/career-reboot-for-developer-mind) by listening while driving and excercising.
+Note that some of the books below are available in audiobook format. If you don't have time to read a book, [multi-thread your life](http://www.pluralsight.com/courses/career-reboot-for-developer-mind) by listening while driving and exercising.
 
 1. [Resonate](http://www.amazon.com/gp/product/0470632011/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0470632011&linkCode=as2&tag=outlier-20&linkId=UCSGCKN3MAATURNT) by Nancy Duarte
 2. [Presentation Zen](http://www.amazon.com/gp/product/0321811984/ref=as_li_qf_sp_asin_il_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0321811984&linkCode=as2&tag=outlier-20&linkId=6QQ6YOJTC3LIDKQW) by Garr Reynolds
