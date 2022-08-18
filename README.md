@@ -4,6 +4,7 @@ Resources for Speakers
 
 ## How do I find out about CFPs? (calls for presenters)
 1. Search open CFPs on [Papercall](https://www.papercall.io/cfps).
+2. ["Discover events" within Sessionize](https://sessionize.com/app/speaker/discover)
 2. [HUGE list of software conferences](https://docs.google.com/spreadsheets/d/1QQu-el_aPBWFk6rDNbbrvBx819w-dPhHGB9tEVeiP5s/edit#gid=1428437774) (Thanks to [Heather Wilde](http://www.twitter.com/heathriel)! 👍). Separate list of [front-end conferences](https://github.com/benmvp/frontend-confs/blob/master/README.md).
 3. [Speaknet Google Group](https://groups.google.com/forum/?utm_source=digest&utm_medium=email#!forum/speaknet) and [Speaknet Slack](https://speaknet.herokuapp.com/)
 4. [Conference Radar](https://conferenceradar.com)
