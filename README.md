@@ -51,7 +51,7 @@ Resources for Speakers
 1. [Here's a list I like to review](https://www.evernote.com/l/AAi862TYcX9AJ6qqbNc9Bx_8vkSuhS3cggg) shortly before going on stage.
 
 ## Presentation Tools
-1. [spectacle-code-slide](http://jamiebuilds.github.io/spectacle-code-slide/) displays code with highlights.
+1. [spectacle-code-slide](http://jamiebuilds.github.io/spectacle-code-slide/) displays code with highlights. Keep an eye on [Kodemo](https://twitter.com/hakimel/status/1562386353811296256) too.
 
 ## What should I read?
 Note that some of the books below are available in audiobook format. If you don't have time to read a book, [multi-thread your life](http://www.pluralsight.com/courses/career-reboot-for-developer-mind) by listening while driving and exercising.
